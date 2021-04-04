@@ -1,7 +1,13 @@
-
 .calculator {
     border: 3px solid rgb(107, 107, 107);
     border-radius: 5px;
+    width: 392px;
+}
+
+.input {
+    padding: 10px;
+    width: 372px;
+    height: 50px;
 }
 
 button {
